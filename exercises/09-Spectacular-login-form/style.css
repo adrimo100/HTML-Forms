@@ -1,0 +1,24 @@
+body {
+	background-color: blue;
+}
+
+div {
+	margin: auto;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+input {
+	background-color: darkblue;
+	display: block;
+	margin-bottom: 10px;
+}
+
+button {
+	color: white;
+	background-color: cadetblue;
+	border-radius: 5px;
+}
