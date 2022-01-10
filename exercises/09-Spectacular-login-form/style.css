@@ -2,23 +2,26 @@ body {
 	background-color: blue;
 }
 
-div {
-	margin: auto;
-}
-
 h1 {
 	color: white;
-	text-align: center;
+	padding-left: 10%;
 }
 
 input {
 	background-color: darkblue;
 	display: block;
 	margin-bottom: 10px;
+	border-radius: 5px;
 }
 
 button {
 	color: white;
 	background-color: cadetblue;
 	border-radius: 5px;
+	width: 45%;
+}
+
+.login {
+	width: 400px;
+	margin: 10% auto;
 }
